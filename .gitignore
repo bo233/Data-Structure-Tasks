@@ -1,0 +1,18 @@
+
+*.opendb
+*.ipch
+*.sln
+*.pdb
+*.ilk
+*.user
+*.vcxproj
+*.filters
+*.obj
+*.idb
+*.tlog
+*.log
+*.enc
+*.db
+.vs/Data Structure/v15/.suo
+*.db-shm
+*.db-wal
